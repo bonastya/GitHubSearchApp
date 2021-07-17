@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="names">
+    <item>Ivanov Ivan</item>
+    <item>Donald Hardy</item>
+    <item>Kristopher Mccormick</item>
+    <item>Dustin Park</item>
+    <item>Harry Whitehead</item>
+    <item>Gerard Clark</item>
+    <item>Valentine Chase</item>
+    <item>Valentine Chase</item>
+    <item>Valentine Chase</item>
+    <item>Cody Chase</item>
+</string-array>
+
+<string-array name="descriptions">
+    <item>kotlin, java developer</item>
+    <item>Junior Backend Developer (PHP)</item>
+    <item>Middle Magento developer</item>
+    <item>IOS Developer</item>
+    <item>Android developer</item>
+    <item>Front-end Developer</item>
+    <item>Senior Flutter/iOS Developer</item>
+    <item>Senior PHP developer</item>
+    <item>Middle Ruby on Rails developer</item>
+    <item>.NET Developer</item>
+
+</string-array>
+
+
+
+</resources>
